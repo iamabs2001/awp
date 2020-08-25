@@ -1,0 +1,11 @@
+/home/sigma/Desktop/Sigma/bin/Debug/netcoreapp3.0/Sigma
+/home/sigma/Desktop/Sigma/bin/Debug/netcoreapp3.0/Sigma.deps.json
+/home/sigma/Desktop/Sigma/bin/Debug/netcoreapp3.0/Sigma.runtimeconfig.json
+/home/sigma/Desktop/Sigma/bin/Debug/netcoreapp3.0/Sigma.runtimeconfig.dev.json
+/home/sigma/Desktop/Sigma/bin/Debug/netcoreapp3.0/Sigma.dll
+/home/sigma/Desktop/Sigma/bin/Debug/netcoreapp3.0/Sigma.pdb
+/home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.csprojAssemblyReference.cache
+/home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.AssemblyInfoInputs.cache
+/home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.AssemblyInfo.cs
+/home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.dll
+/home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.pdb
