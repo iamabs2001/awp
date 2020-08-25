@@ -10,14 +10,14 @@
         "projectUniqueName": "/home/sigma/Desktop/Sigma/Sigma.csproj",
         "projectName": "Sigma",
         "projectPath": "/home/sigma/Desktop/Sigma/Sigma.csproj",
-        "packagesPath": "/home/sigma/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/sigma/Desktop/Sigma/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/sigma/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

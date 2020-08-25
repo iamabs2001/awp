@@ -6,10 +6,11 @@ namespace Sigma.Practical
     {
         static void Main(string[] args)
         {
-            string str1 = "", str2 = "TechnoLytics",new_str;
-            int n;
-            Console.WriteLine("In Uppercase: "+str1.ToUpper());
-            Console.WriteLine("In Lowercase: " + str1.ToLower());
+            string str1 = "", str2 = "DalmiaLionsCollege", new_str = "";
+            int n = 0;
+            Console.WriteLine("Abhijeet Sharma");
+            Console.WriteLine("In Uppercase: "+str2.ToUpper());
+            Console.WriteLine("In Lowercase: " + str2.ToLower());
             n = str1.CompareTo(str2);
 
             if(n==0)
@@ -20,7 +21,7 @@ namespace Sigma.Practical
             {
                 Console.WriteLine("Both is not equal");
             }
-            new_str = str1.Replace("", "");
+            new_str = str2.Replace(" ", "");
             Console.WriteLine(new_str);
         }
         

@@ -3,7 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-     <StartupObject>Sigma.Practical.Product</StartupObject>
+     <!-- <StartupObject>Sigma.Practical.Product</StartupObject> -->
+     <StartupObject>Sigma.Practical.CaseConversion</StartupObject>
+     <!-- <StartupObject>Sigma.Practical.StudentProgram</StartupObject> -->
   </PropertyGroup>
 
 </Project>
