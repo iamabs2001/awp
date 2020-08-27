@@ -2,7 +2,7 @@ using System;
 
 namespace Sigma.Practical
 {
-    class Product
+    class OneA
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,7 @@ namespace Sigma.Practical
             Console.Write("Enter the Number 4 : ");
             num4 = Convert.ToInt32(Console.ReadLine());
             prod = num1 * num2 * num3 * num4;
-            Console.Write("Product of four Number is " + prod);
+            Console.WriteLine("Product of four Number is " + prod);
         }
     }
 }

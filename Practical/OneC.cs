@@ -2,7 +2,7 @@ using System;
 
 namespace Sigma.Practical
 {
-    class StudentProgram
+    class OneC
     {
         struct Student
         {

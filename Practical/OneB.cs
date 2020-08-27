@@ -2,7 +2,7 @@ using System;
 
 namespace Sigma.Practical
 {
-    class CaseConversion
+    class OneB
     {
         static void Main(string[] args)
         {
