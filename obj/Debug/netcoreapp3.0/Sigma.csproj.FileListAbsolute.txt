@@ -9,3 +9,14 @@
 /home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.AssemblyInfo.cs
 /home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.dll
 /home/sigma/Desktop/Sigma/obj/Debug/netcoreapp3.0/Sigma.pdb
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/bin/Debug/netcoreapp3.0/Sigma
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/bin/Debug/netcoreapp3.0/Sigma.deps.json
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/bin/Debug/netcoreapp3.0/Sigma.runtimeconfig.json
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/bin/Debug/netcoreapp3.0/Sigma.runtimeconfig.dev.json
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/bin/Debug/netcoreapp3.0/Sigma.dll
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/bin/Debug/netcoreapp3.0/Sigma.pdb
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/Debug/netcoreapp3.0/Sigma.csprojAssemblyReference.cache
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/Debug/netcoreapp3.0/Sigma.AssemblyInfoInputs.cache
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/Debug/netcoreapp3.0/Sigma.AssemblyInfo.cs
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/Debug/netcoreapp3.0/Sigma.dll
+/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/Debug/netcoreapp3.0/Sigma.pdb

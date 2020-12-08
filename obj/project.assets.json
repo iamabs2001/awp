@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sigma/Desktop/Sigma/Sigma.csproj",
+      "projectUniqueName": "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/Sigma.csproj",
       "projectName": "Sigma",
-      "projectPath": "/home/sigma/Desktop/Sigma/Sigma.csproj",
+      "projectPath": "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/Sigma.csproj",
       "packagesPath": "/home/sigma/.nuget/packages/",
-      "outputPath": "/home/sigma/Desktop/Sigma/obj/",
+      "outputPath": "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

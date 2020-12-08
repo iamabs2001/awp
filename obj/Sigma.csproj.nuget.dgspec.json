@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/sigma/Desktop/Sigma/Sigma.csproj": {}
+    "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/Sigma.csproj": {}
   },
   "projects": {
-    "/home/sigma/Desktop/Sigma/Sigma.csproj": {
+    "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/Sigma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sigma/Desktop/Sigma/Sigma.csproj",
+        "projectUniqueName": "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/Sigma.csproj",
         "projectName": "Sigma",
-        "projectPath": "/home/sigma/Desktop/Sigma/Sigma.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/sigma/Desktop/Sigma/obj/",
+        "projectPath": "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/Sigma.csproj",
+        "packagesPath": "/home/sigma/.nuget/packages/",
+        "outputPath": "/home/sigma/Documents/TYIT - PRACTICALS/Sigma/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/sigma/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
